@@ -18,7 +18,7 @@ export default function App() {
     "Shira Attias",
     "Adi Yaacobi",
     "Sahar Nahaisi",
-    "Artyom Ivanov",
+    "Artyom Ivanov - Bug accured please Re-Roll",
     "Lior Baraban",
     "Omer Furman",
     "Nir Elbaz",
@@ -26,6 +26,11 @@ export default function App() {
     "Laure Montuelle",
     "Loren Goldstein",
     "Ran Jarufi",
+    "Kim Belassen",
+    "Kim Jong Un",
+    "Donald Trump",
+    "Elon Musk",
+    "BeeBot"
   ];
 
   return (
