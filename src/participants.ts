@@ -24,4 +24,4 @@ export const participants = [
   "Kim Belassen",
   "Tair Werner",
   "Eli Yarkoni"
-]
+];
